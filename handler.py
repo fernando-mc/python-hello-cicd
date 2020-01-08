@@ -3,6 +3,7 @@ import json
 import requests
 
 def hello(event, context):
+    print("v2")
     print(event)
     result = requests.get('https://fernandomc.com').text
     print(result)
