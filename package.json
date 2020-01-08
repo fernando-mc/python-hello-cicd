@@ -1,0 +1,18 @@
+{
+  "name": "python-hello-cicd",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernando-mc/python-hello-cicd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fernando-mc/python-hello-cicd/issues"
+  },
+  "homepage": "https://github.com/fernando-mc/python-hello-cicd#readme",
+  "devDependencies": {
+    "serverless-python-requirements": "^5.0.1"
+  }
+}
