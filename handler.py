@@ -5,7 +5,7 @@ import requests
 def hello(event, context):
     print("v2")
     print(event)
-    result = requests.get('https://fernandomc.com').text
+    result = requests.get('https://serverless.com').text
     print(result)
     body = {"result": result}
     response = {
